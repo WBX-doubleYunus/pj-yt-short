@@ -1,0 +1,5 @@
+# Put keywords (one per line) that you want treated as SARA triggers.
+# Lines starting with '#' are comments and ignored.
+# Example (customize for your locale):
+# slur1
+# slur2

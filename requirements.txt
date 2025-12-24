@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+httpx
+google-auth
+google-auth-oauthlib
+yt-dlp
+openai
+pydantic
+python-telegram-bot>=13.0
+pydub
